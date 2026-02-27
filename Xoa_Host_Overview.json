@@ -124,6 +124,10 @@
               {
                 "id": "displayName",
                 "value": "Uptime"
+              },
+              {
+                "id": "unit",
+                "value": "s"
               }
             ]
           },
@@ -282,7 +286,7 @@
           },
           "disableTextWrap": false,
           "editorMode": "builder",
-          "expr": "node_boot_time_seconds",
+          "expr": "xcp_host_uptime_seconds",
           "fullMetaSearch": false,
           "includeNullMetadata": true,
           "instant": false,
@@ -1230,6 +1234,6 @@
   "timezone": "",
   "title": "Xoa Host Overview",
   "uid": "dfbn4hds13ldsd",
-  "version": 20,
+  "version": 21,
   "weekStart": ""
 }
