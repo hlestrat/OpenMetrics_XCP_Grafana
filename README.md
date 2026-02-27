@@ -16,4 +16,4 @@ Feature curently in progress :
 
 - more in a futures
 
-If you have on other idea don't hesitae to ping me =)
+If you have on other idea don't hesitate to ping me =)
