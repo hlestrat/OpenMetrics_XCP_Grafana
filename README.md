@@ -1,12 +1,14 @@
 # OpenMetrics_XCP_Grafana
-This is a dashboard for XCP-NG/XOA with openmetrics plugins (Prometheus exporter)
-this dashboard it's my version of infrastructure overview. 
-all dashboard include recurency for VM, SR, HOST, POOL if is connect on the XOA source of prometheus telemetry.
 
-It's curently in devellopement for added more Metrics and patch
+This is a Grafana dashboard for XCP-ng/XOA using the OpenMetrics plugin (Prometheus exporter).
 
-Documentation : https://docs.xen-orchestra.com/advanced#openmetrics--prometheus-integration
-forum link : https://xcp-ng.org/forum/topic/11856/openmetrics-powered-grafana-dashboards-for-xen-orchestra
+This dashboard is my own version of an infrastructure overview.  
+All dashboards include recurring views for VM, SR, Host, and Pool if they are connected to the XOA Prometheus telemetry source.
+
+It is currently in development to add more metrics and improvements.
+
+Documentation: https://docs.xen-orchestra.com/advanced#openmetrics--prometheus-integration  
+Forum link: https://xcp-ng.org/forum/topic/11856/openmetrics-powered-grafana-dashboards-for-xen-orchestra
 
 
 ## Cluster Overview 
@@ -25,12 +27,11 @@ forum link : https://xcp-ng.org/forum/topic/11856/openmetrics-powered-grafana-da
 
 ![Storage](/Assets/storage_view.png)(/Dashboard/Xoa_sr_overview.json)
 
-# Feature curently in progress : 
+# Features currently in progress
 
-- Collect Uptime from Host & VMs
+- Collect uptime from hosts & VMs
 - Collect storage capacity from VMs
-- Adding Network name info for VMs with multiple interface
+- Add network name information for VMs with multiple interfaces
+- More features coming in the future
 
-- more in a futures
-
-If you have on other idea don't hesitate to ping me =)
+If you have any other ideas, feel free to ping me 🙂
