@@ -13,27 +13,27 @@ Forum link: https://xcp-ng.org/forum/topic/11856/openmetrics-powered-grafana-das
 
 ## Cluster Overview 
 
-![Cluster](/Assets/cluster_view.png)
+![Cluster](/assets/cluster_view.png)
 
-Download the dashboard : [Xoa_cluster_overview.json](/Dashboard/Xoa_cluster_overview.json)
+Download the dashboard : [Xoa_cluster_overview.json](/cashboard/Xoa_cluster_overview.json)
 
 ## Host Overview 
 
-![Host](/Assets/host_view.png)
+![Host](/assets/host_view.png)
 
-Download the dashboard : [Xoa_host_overview.json](/Dashboard/Xoa_host_overview.json)
+Download the dashboard : [Xoa_host_overview.json](/dashboard/Xoa_host_overview.json)
 
 ## VM Overview 
 
-![VM](/Assets/vm_view.png)
+![VM](/assets/vm_view.png)
 
-Download the dashboard : [Xoa_vm_overview.json](/Dashboard/Xoa_vm_overview.json)
+Download the dashboard : [Xoa_vm_overview.json](/dashboard/Xoa_vm_overview.json)
 
 ## Storage Overview 
 
-![Storage](/Assets/sr_view.png)
+![Storage](/assets/sr_view.png)
 
-Download the dashboard : [Xoa_sr_overview.json](/Dashboard/Xoa_sr_overview.json)
+Download the dashboard : [Xoa_sr_overview.json](/dashboard/Xoa_sr_overview.json)
 
 # Features currently in progress
 
