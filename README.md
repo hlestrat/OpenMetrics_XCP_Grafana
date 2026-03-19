@@ -37,8 +37,9 @@ Download the dashboard : [Xoa_sr_overview.json](/dashboard/Xoa_sr_overview.json)
 
 # Features currently in progress
 
-- Collect uptime from hosts & VMs
+- Collect uptime from VMs
 - Collect storage capacity from VMs
+- Collect metrics for xostor storage
 - Add network name information for VMs with multiple interfaces
 - More features coming in the future
 
